@@ -1,0 +1,881 @@
+# Copyright (C) 2018
+# This file is distributed under the same license as the  package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Card Elements for Beaver Builder\n"
+"Report-Msgid-Bugs-To: https://oceanwp.org/support/\n"
+"POT-Creation-Date: 2024-04-13 12:32+0530\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OceanWP\n"
+"Language-Team: Techeshta <info@techeshta.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: card-elements-for-beaver-builder.php:94 modules/post-card/post-card.php:10
+#: modules/profile-card/profile-card.php:10
+#: modules/testimonial-card/testimonial-card.php:10
+msgid "Card Elements"
+msgstr ""
+
+#: card-elements-for-beaver-builder.php:112
+#: card-elements-for-beaver-builder.php:119
+msgid "Card Elements for Beaver Builder "
+msgstr ""
+
+#: card-elements-for-beaver-builder.php:112
+msgid " will not work because you have not activated the Beaver Builder."
+msgstr ""
+
+#: card-elements-for-beaver-builder.php:113
+msgid "Activate Beaver Builder Now"
+msgstr ""
+
+#: card-elements-for-beaver-builder.php:119
+msgid "will not work because you have not installed the Beaver Builder"
+msgstr ""
+
+#: card-elements-for-beaver-builder.php:120
+msgid "Install Beaver Builder Now"
+msgstr ""
+
+#: modules/post-card/includes/functions-post-card.php:89
+msgid "Posted by"
+msgstr ""
+
+#: modules/post-card/includes/functions-post-card.php:103
+msgid "By"
+msgstr ""
+
+#: modules/post-card/includes/functions-post-card.php:137
+#: modules/post-card/includes/functions-post-card.php:155
+msgid ", "
+msgstr ""
+
+#: modules/post-card/includes/functions-post-card.php:141
+msgid "Posted in"
+msgstr ""
+
+#: modules/post-card/includes/functions-post-card.php:159
+msgid "Tags:"
+msgstr ""
+
+#: modules/post-card/includes/functions-post-card.php:177
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: modules/post-card/post-card.php:7
+msgid "Post Card"
+msgstr ""
+
+#: modules/post-card/post-card.php:8 modules/profile-card/profile-card.php:8
+#: modules/testimonial-card/testimonial-card.php:8
+msgid "An example for coding new modules."
+msgstr ""
+
+#: modules/post-card/post-card.php:9 modules/profile-card/profile-card.php:9
+#: modules/testimonial-card/testimonial-card.php:9
+msgid "My Modules"
+msgstr ""
+
+#: modules/post-card/post-card.php:29 modules/profile-card/profile-card.php:30
+#: modules/profile-card/profile-card.php:769
+#: modules/testimonial-card/testimonial-card.php:29
+msgid "General"
+msgstr ""
+
+#: modules/post-card/post-card.php:33
+msgid "Post Layout"
+msgstr ""
+
+#: modules/post-card/post-card.php:38
+msgid "Post Card Style"
+msgstr ""
+
+#: modules/post-card/post-card.php:40
+msgid "Post Card Style 1"
+msgstr ""
+
+#: modules/post-card/post-card.php:41
+msgid "Post Card Style 2"
+msgstr ""
+
+#: modules/post-card/post-card.php:42
+msgid "Post Card Style 6"
+msgstr ""
+
+#: modules/post-card/post-card.php:63
+msgid "Post Card Colums"
+msgstr ""
+
+#: modules/post-card/post-card.php:85
+msgid "Display No. of Posts"
+msgstr ""
+
+#: modules/post-card/post-card.php:91
+#: modules/testimonial-card/testimonial-card.php:230
+msgid "Image Size"
+msgstr ""
+
+#: modules/post-card/post-card.php:97
+msgid "Post Content"
+msgstr ""
+
+#: modules/post-card/post-card.php:103
+msgid "Show/Hide Title"
+msgstr ""
+
+#: modules/post-card/post-card.php:105 modules/post-card/post-card.php:136
+#: modules/post-card/post-card.php:176 modules/post-card/post-card.php:203
+#: modules/profile-card/profile-card.php:107
+#: modules/profile-card/profile-card.php:143
+#: modules/profile-card/profile-card.php:705
+msgid "Yes"
+msgstr ""
+
+#: modules/post-card/post-card.php:106 modules/post-card/post-card.php:137
+#: modules/post-card/post-card.php:177 modules/post-card/post-card.php:204
+#: modules/profile-card/profile-card.php:108
+#: modules/profile-card/profile-card.php:144
+#: modules/profile-card/profile-card.php:706
+msgid "No"
+msgstr ""
+
+#: modules/post-card/post-card.php:119
+#: modules/profile-card/profile-card.php:85
+#: modules/testimonial-card/testimonial-card.php:60
+msgid "Name HTML Tag"
+msgstr ""
+
+#: modules/post-card/post-card.php:122
+#: modules/profile-card/profile-card.php:88
+#: modules/testimonial-card/testimonial-card.php:63
+msgid "H1"
+msgstr ""
+
+#: modules/post-card/post-card.php:123
+#: modules/profile-card/profile-card.php:89
+#: modules/testimonial-card/testimonial-card.php:64
+msgid "H2"
+msgstr ""
+
+#: modules/post-card/post-card.php:124
+#: modules/profile-card/profile-card.php:90
+#: modules/testimonial-card/testimonial-card.php:65
+msgid "H3"
+msgstr ""
+
+#: modules/post-card/post-card.php:125
+#: modules/profile-card/profile-card.php:91
+#: modules/testimonial-card/testimonial-card.php:66
+msgid "H4"
+msgstr ""
+
+#: modules/post-card/post-card.php:126
+#: modules/profile-card/profile-card.php:92
+#: modules/testimonial-card/testimonial-card.php:67
+msgid "H5"
+msgstr ""
+
+#: modules/post-card/post-card.php:127
+#: modules/profile-card/profile-card.php:93
+#: modules/testimonial-card/testimonial-card.php:68
+msgid "H6"
+msgstr ""
+
+#: modules/post-card/post-card.php:134
+msgid "Show/Hide Excerpt"
+msgstr ""
+
+#: modules/post-card/post-card.php:151
+msgid "Excerpt Length"
+msgstr ""
+
+#: modules/post-card/post-card.php:159
+msgid "Excerpt From"
+msgstr ""
+
+#: modules/post-card/post-card.php:162
+#: modules/profile-card/profile-card.php:34
+#: modules/testimonial-card/testimonial-card.php:33
+msgid "Content"
+msgstr ""
+
+#: modules/post-card/post-card.php:163
+msgid "Excerpt"
+msgstr ""
+
+#: modules/post-card/post-card.php:169 modules/post-card/post-card.php:174
+#: modules/post-card/post-card.php:625
+msgid "Read More"
+msgstr ""
+
+#: modules/post-card/post-card.php:190
+msgid "Read More Text"
+msgstr ""
+
+#: modules/post-card/post-card.php:191
+msgid "Read More »"
+msgstr ""
+
+#: modules/post-card/post-card.php:196
+msgid "Meta data"
+msgstr ""
+
+#: modules/post-card/post-card.php:201
+msgid "Show/Hide Meta Data"
+msgstr ""
+
+#: modules/post-card/post-card.php:216
+msgid "Meta Data"
+msgstr ""
+
+#: modules/post-card/post-card.php:219
+msgid "Author"
+msgstr ""
+
+#: modules/post-card/post-card.php:220 modules/post-card/post-card.php:251
+#: modules/post-card/post-card.php:434
+msgid "Date"
+msgstr ""
+
+#: modules/post-card/post-card.php:221
+msgid "Comments"
+msgstr ""
+
+#: modules/post-card/post-card.php:222
+msgid "Tags"
+msgstr ""
+
+#: modules/post-card/post-card.php:223 modules/post-card/post-card.php:475
+msgid "Category"
+msgstr ""
+
+#: modules/post-card/post-card.php:230
+msgid "Query"
+msgstr ""
+
+#: modules/post-card/post-card.php:235
+msgid "Categories"
+msgstr ""
+
+#: modules/post-card/post-card.php:243
+msgid "Advanced"
+msgstr ""
+
+#: modules/post-card/post-card.php:248
+msgid "Order By"
+msgstr ""
+
+#: modules/post-card/post-card.php:252 modules/post-card/post-card.php:529
+#: modules/profile-card/profile-card.php:254
+#: modules/testimonial-card/testimonial-card.php:131
+#: modules/testimonial-card/testimonial-card.php:250
+msgid "Title"
+msgstr ""
+
+#: modules/post-card/post-card.php:253
+msgid "Menu Order"
+msgstr ""
+
+#: modules/post-card/post-card.php:254
+msgid "Random"
+msgstr ""
+
+#: modules/post-card/post-card.php:260
+msgid "Sort By"
+msgstr ""
+
+#: modules/post-card/post-card.php:263
+msgid "ASC"
+msgstr ""
+
+#: modules/post-card/post-card.php:264
+msgid "DESC"
+msgstr ""
+
+#: modules/post-card/post-card.php:274
+#: modules/profile-card/profile-card.php:167
+#: modules/testimonial-card/testimonial-card.php:171
+msgid "Style"
+msgstr ""
+
+#: modules/post-card/post-card.php:278
+#: modules/testimonial-card/testimonial-card.php:142
+msgid "Layout"
+msgstr ""
+
+#: modules/post-card/post-card.php:283
+msgid "Grid Gap"
+msgstr ""
+
+#: modules/post-card/post-card.php:303
+msgid "Rows Gap"
+msgstr ""
+
+#: modules/post-card/post-card.php:322
+#: modules/profile-card/profile-card.php:584
+msgid "Border Radius"
+msgstr ""
+
+#: modules/post-card/post-card.php:342
+#: modules/profile-card/profile-card.php:176
+#: modules/profile-card/profile-card.php:427
+#: modules/testimonial-card/testimonial-card.php:180
+#: modules/testimonial-card/testimonial-card.php:432
+msgid "Alignment"
+msgstr ""
+
+#: modules/post-card/post-card.php:355
+#: modules/profile-card/profile-card.php:221
+#: modules/testimonial-card/testimonial-card.php:225
+msgid "Image"
+msgstr ""
+
+#: modules/post-card/post-card.php:360
+#: modules/profile-card/profile-card.php:243
+#: modules/testimonial-card/testimonial-card.php:239
+msgid "Border"
+msgstr ""
+
+#: modules/post-card/post-card.php:371
+#: modules/profile-card/profile-card.php:294
+#: modules/profile-card/profile-card.php:391
+#: modules/profile-card/profile-card.php:651
+msgid "Background Color"
+msgstr ""
+
+#: modules/post-card/post-card.php:376
+msgid "Category Color"
+msgstr ""
+
+#: modules/post-card/post-card.php:387
+msgid "Category Hover Color"
+msgstr ""
+
+#: modules/post-card/post-card.php:399
+msgid "Date Color"
+msgstr ""
+
+#: modules/post-card/post-card.php:410
+msgid "Date Hover Color"
+msgstr ""
+
+#: modules/post-card/post-card.php:421
+msgid "Content Box Color"
+msgstr ""
+
+#: modules/post-card/post-card.php:439 modules/post-card/post-card.php:480
+#: modules/post-card/post-card.php:534 modules/post-card/post-card.php:588
+#: modules/post-card/post-card.php:630 modules/post-card/post-card.php:682
+#: modules/profile-card/profile-card.php:207
+#: modules/profile-card/profile-card.php:273
+#: modules/profile-card/profile-card.php:328
+#: modules/profile-card/profile-card.php:370
+#: modules/profile-card/profile-card.php:409
+#: modules/profile-card/profile-card.php:622
+#: modules/testimonial-card/testimonial-card.php:211
+#: modules/testimonial-card/testimonial-card.php:269
+#: modules/testimonial-card/testimonial-card.php:311
+#: modules/testimonial-card/testimonial-card.php:353
+#: modules/testimonial-card/testimonial-card.php:381
+msgid "Color"
+msgstr ""
+
+#: modules/post-card/post-card.php:451 modules/post-card/post-card.php:492
+#: modules/post-card/post-card.php:546 modules/post-card/post-card.php:642
+#: modules/post-card/post-card.php:694
+#: modules/profile-card/profile-card.php:635
+msgid "Hover Color"
+msgstr ""
+
+#: modules/post-card/post-card.php:464 modules/post-card/post-card.php:504
+#: modules/post-card/post-card.php:558 modules/post-card/post-card.php:600
+#: modules/post-card/post-card.php:654 modules/post-card/post-card.php:706
+#: modules/profile-card/profile-card.php:285
+#: modules/profile-card/profile-card.php:340
+#: modules/profile-card/profile-card.php:382
+#: modules/testimonial-card/testimonial-card.php:281
+#: modules/testimonial-card/testimonial-card.php:323
+#: modules/testimonial-card/testimonial-card.php:365
+#: modules/testimonial-card/testimonial-card.php:469
+msgid "Typography"
+msgstr ""
+
+#: modules/post-card/post-card.php:514 modules/post-card/post-card.php:568
+#: modules/post-card/post-card.php:610 modules/post-card/post-card.php:716
+#: modules/profile-card/profile-card.php:259
+#: modules/profile-card/profile-card.php:314
+#: modules/profile-card/profile-card.php:356
+#: modules/profile-card/profile-card.php:519
+#: modules/testimonial-card/testimonial-card.php:255
+#: modules/testimonial-card/testimonial-card.php:297
+#: modules/testimonial-card/testimonial-card.php:339
+#: modules/testimonial-card/testimonial-card.php:416
+msgid "Spacing"
+msgstr ""
+
+#: modules/post-card/post-card.php:583
+msgid "excerpt"
+msgstr ""
+
+#: modules/post-card/post-card.php:665
+msgid "Meta"
+msgstr ""
+
+#: modules/post-card/post-card.php:670
+msgid "Icon Color"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:7
+msgid "Profile Card"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:39
+msgid "Profile Card Style"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:41
+#: modules/testimonial-card/testimonial-card.php:40
+msgid "Card Style 1"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:42
+#: modules/testimonial-card/testimonial-card.php:41
+msgid "Card Style 2"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:43
+msgid "Card Style 3"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:44
+msgid "Card Style 4"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:45
+msgid "Card Style 5"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:46
+msgid "Card Style 11"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:79
+#: modules/testimonial-card/testimonial-card.php:54
+msgid "John Doe"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:80
+#: modules/testimonial-card/testimonial-card.php:55
+msgid "Name"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:99
+#: modules/testimonial-card/testimonial-card.php:74
+msgid "Founder"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:100
+#: modules/profile-card/profile-card.php:351
+#: modules/testimonial-card/testimonial-card.php:75
+#: modules/testimonial-card/testimonial-card.php:334
+msgid "Designation"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:105
+msgid "Show/Hide Description"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:121
+#: modules/profile-card/profile-card.php:309
+#: modules/testimonial-card/testimonial-card.php:80
+#: modules/testimonial-card/testimonial-card.php:292
+msgid "Description"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:122
+#: modules/testimonial-card/testimonial-card.php:81
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: modules/profile-card/profile-card.php:123
+#: modules/testimonial-card/testimonial-card.php:82
+msgid "Add Description"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:129
+#: modules/testimonial-card/testimonial-card.php:88
+msgid "Select Profile Image"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:135
+msgid "Select Profile Background Image"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:141
+msgid "Show/Hide Icon"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:156
+#: modules/profile-card/profile-card.php:776
+msgid "Icon"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:171
+#: modules/testimonial-card/testimonial-card.php:175
+msgid "Box"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:188
+#: modules/profile-card/profile-card.php:500
+#: modules/testimonial-card/testimonial-card.php:192
+msgid "Padding"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:226
+msgid "Image Width"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:234
+msgid "Image Height"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:405
+msgid "Triagle Color"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:423
+msgid "Social Icon"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:438
+msgid "Icon Size"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:457
+msgid "Social Area Background Color"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:460
+msgid "Simple"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:461
+msgid "Circle Background"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:462
+msgid "Square Background"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:463
+msgid "Design your own"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:479
+msgid "Background Size"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:480
+msgid "Spacing between Icon & Background edge"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:532
+msgid "Border Style"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:534
+msgid ""
+"The type of border to use. Double borders must have a width of at least 3px "
+"to render properly."
+msgstr ""
+
+#: modules/profile-card/profile-card.php:536
+#: modules/profile-card/profile-card.php:721
+msgid "None"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:537
+#: modules/testimonial-card/testimonial-card.php:124
+msgid "Solid"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:538
+msgid "Dashed"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:539
+msgid "Dotted"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:540
+msgid "Double"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:564
+msgid "Border Width"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:605
+msgid "Icon Colors"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:609
+msgid "Icon Background Color"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:664
+msgid "Background Hover Color"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:677
+msgid "Border Color"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:690
+msgid "Border Hover Color"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:703
+msgid "Allow Icon Hover Animations"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:719
+msgid "Icon Hover Animation Type"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:722
+msgid "Grow"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:723
+msgid "Shrink"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:724
+msgid "Pulse"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:725
+msgid "Pulse Grow"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:726
+msgid "Pulse Shrink"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:727
+msgid "Push"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:728
+msgid "Pop"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:729
+msgid "Bounce In"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:730
+msgid "Bounce Out"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:731
+msgid "Rotate"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:732
+msgid "Grow Rotate"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:733
+msgid "Float"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:734
+msgid "Sink"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:735
+msgid "Bob"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:736
+msgid "Hang"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:737
+msgid "Skew"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:738
+msgid "Skew Forward"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:739
+msgid "Skew Backward"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:740
+msgid "Wobble Horizontal"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:741
+msgid "Wobble Vertical"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:742
+msgid "Wobble to Bottom Right"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:743
+msgid "Wobble to Top Right"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:744
+msgid "Wobble Top"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:745
+msgid "Wobble Bottom"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:746
+msgid "Wobble Skew"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:747
+msgid "Buzz"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:748
+msgid "Buzz Out"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:749
+msgid "Forward"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:750
+msgid "Backward"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:766
+msgid "Add Icon"
+msgstr ""
+
+#: modules/profile-card/profile-card.php:782
+msgid "Link"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:7
+msgid "Testimonial Card"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:38
+msgid "Testimonial Card Style"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:42
+msgid "Card Style 6"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:95
+#: modules/testimonial-card/testimonial-card.php:111
+msgid "Rating"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:101
+msgid "Rating Scale"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:104
+msgid "0-5 Stars"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:105
+msgid "0-10 Stars"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:121
+msgid "Unmarked Style"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:125
+msgid "Outline"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:133
+msgid "Ratings !!!"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:145
+msgid "Default"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:146
+msgid "Inline"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:157
+msgid "Position"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:160
+msgid "Star First"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:161
+msgid "Title First"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:376
+msgid "Star Rating "
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:390
+msgid "Unmarked Color"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:399
+msgid "Size"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:436
+msgid "Left"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:437
+msgid "Center"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:438
+msgid "Right"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:439
+msgid "Justify"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:449
+msgid "Title Color"
+msgstr ""
+
+#: modules/testimonial-card/testimonial-card.php:462
+msgid "Title Spacing"
+msgstr ""
